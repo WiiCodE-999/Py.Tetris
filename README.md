@@ -7,15 +7,15 @@ For the program to work, you must:
 
 In-game controls:
 
-→ → - move left/right
+- → → - move left/right
 
-↑ - shape rotation
+- ↑ - shape rotation
 
-↓ - accelerate the fall
+- ↓ - accelerate the fall
 
-Space bar - instant drop
+- Space bar - instant drop
 
-ESC output
+- ESC output
 
 
 
