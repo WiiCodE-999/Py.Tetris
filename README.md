@@ -17,6 +17,8 @@ Space bar - instant drop
 
 ESC output
 
+-
+
 Implementation features:
 
 - Classic Tetris figures
